@@ -1,1 +1,1 @@
-
+Welcome to my collection of data science projects! Each files in this repository contains a standalone project demonstrating my skills in data analysis, machine learning, and data visualization using Python.
